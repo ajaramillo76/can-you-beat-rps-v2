@@ -1,0 +1,21 @@
+<resources>
+  <string name="app_name">Can You Beat Rps</string>
+  <string name="title_home">Game</string>
+  <string name="title_dashboard">History</string>
+
+  <string name="loss">Loss:</string>
+  <string name="total_losses">0.0</string>
+  <string name="message">Let\'s Play!</string>
+  <string name="rock">Rock</string>
+  <string name="paper">Paper</string>
+  <string name="scissors">Scissors</string>
+  <string name="win_rate">Win Rate:</string>
+  <string name="number_wins">0.0</string>
+  <string name="percent_of_games">% of Games</string>
+  <string name="player">Player:</string>
+  <string name="computer">Computer:</string>
+  <string name="blank_space">...</string>
+  <string name="dash">-</string>
+
+
+</resources>
