@@ -4,16 +4,11 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.ListAdapter;
 import android.widget.ListView;
-import android.widget.TextView;
-import androidx.annotation.Nullable;
 import androidx.annotation.NonNull;
 import androidx.fragment.app.Fragment;
-import androidx.lifecycle.Observer;
-import androidx.lifecycle.ViewModelProviders;
 import edu.cnm.deepdive.canyoubeatrps.R;
-import edu.cnm.deepdive.canyoubeatrps.ui.dashboard.HistoryViewModel;
+import edu.cnm.deepdive.canyoubeatrps.viewmodel.history.HistoryViewModel;
 
 public class HistoryFragment extends Fragment {
 
@@ -23,8 +18,8 @@ public class HistoryFragment extends Fragment {
   @Override
   public View onCreateView(@NonNull LayoutInflater inflater,
       ViewGroup container, Bundle savedInstanceState) {
-    View root = inflater.inflate(R.layout.fragment_history, container, false);
-    historyList = root.findViewById(R.id.history_list);
-     return root;
+    View layout = inflater.inflate(R.layout.fragment_history, container, false);
+    historyList = layout.findViewById(R.id.history_list);
+     return layout;
   }
 }

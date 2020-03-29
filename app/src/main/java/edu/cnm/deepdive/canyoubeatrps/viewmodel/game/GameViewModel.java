@@ -1,4 +1,4 @@
-package edu.cnm.deepdive.canyoubeatrps.ui.home;
+package edu.cnm.deepdive.canyoubeatrps.viewmodel.game;
 
 import androidx.lifecycle.LiveData;
 import androidx.lifecycle.MutableLiveData;

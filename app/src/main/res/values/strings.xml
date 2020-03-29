@@ -2,7 +2,7 @@
   <string name="app_name">Can You Beat Rps</string>
   <string name="title_home">Game</string>
   <string name="title_dashboard">History</string>
-
+  <string name="login_failure">\"Unable to sign in with the provided credentials\"</string>
   <string name="loss">Loss:</string>
   <string name="total_losses">0.0</string>
   <string name="message">Let\'s Play!</string>
@@ -16,6 +16,8 @@
   <string name="computer">Computer:</string>
   <string name="blank_space">...</string>
   <string name="dash">-</string>
+  <string name="sign_out">sign out</string>
+  <string name="settings">settings</string>
 
 
 </resources>
