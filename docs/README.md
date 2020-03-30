@@ -1,6 +1,8 @@
 ## Description
 
-It's a rock, paper, scissors game against the computer.  As the game goes along, the computer learns your "pattern" (programming with statistics at first, but eventually using TensorFlow Lite for machine learning) over the course of a defined match and will output the symbol that will beat you.  The goal is that the computer will learn enough to win at least 51% of games overall.  It will eventually use the camera on your phone to capture your actual hand gestures of rock, paper or scissors.  Can you beat the computer?  Let's play!
+It's a rock, paper, scissors game against the computer.  As the game goes along, the computer learns your "pattern" (using TensorFlow Lite and Android Neural Network for machine learning) over the course of a defined match and will output the symbol that will beat you.  The goal is that the computer will learn enough to win at least 51% of games overall.  Can you beat the computer?  Let's play!
+
+I chose to build a rock paper scissors game because of my son.  He has ADHD and there are not many things that can keep him still for long periods, but gaming is one of them.  When he found out that i would be taking this bootcamp and that i was going to be able to create Android apps, he asked if I could build him an app that he could play with for his birthday (which is two days after graduation), so that is how the idea came about.  I added the machine learning portion of the game to teach myself a skill that will be useful in future software development.
 
 ## Intended users
 
