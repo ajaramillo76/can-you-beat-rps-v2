@@ -18,6 +18,9 @@
   <string name="dash">-</string>
   <string name="sign_out">sign out</string>
   <string name="settings">settings</string>
-
+  <string name="how_to">How To Play</string>
+  <string name="info_ok">ok</string>
+  <string name="description">"This is the classic game of rock, paper, scissors where rock
+    beats scissors, paper beats rock and scissors beats paper. It's as simple as that!"</string>
 
 </resources>
