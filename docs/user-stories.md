@@ -1,10 +1,10 @@
 # User Stories
 
-* A gamer who enjoys a simple, one player game, that they remember from their childhood and is still interactive enough that it lets them still use actual hand gestures to play against the computer.
+* As a gamer who occasionally enjoys a simple game, that I remember from my childhood and is still challenging enough that it lets me play against a computer that uses machine learning.
 
-* A gambler, who like in a casino, thinks that they have the "skill" to beat the odds and is addicted to the adrenaline rush of trying to accomplish that.
+* As a gambler, I think that I have the "skill" to beat the odds and I am addicted to the adrenaline rush of gambling.
 
-* A person who thinks that, despite many studies done on human predictability, they have the randomness and ability to beat the computer and think that the human brain is still superior to a computer.
+* As a statistics major, despite many studies done on human predictability, I believe I have the randomness and ability to beat the computer and believe that the human brain is still superior to a computer.
 
-* A Kid who likes easy games that can keep them occupied for long periods of time and likes the interactiveness of using actual hand gestures.
+* As a kid who likes easy games, I like that it can keep me occupied for long periods of time.
     
