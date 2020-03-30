@@ -41,6 +41,7 @@ public class MainActivity extends AppCompatActivity {
     return true;
   }
 
+  @SuppressWarnings("SwitchStatementsWithTooFewBranches")
   @Override
   public boolean onOptionsItemSelected(@NonNull MenuItem item) {
     boolean handled = true;
@@ -63,7 +64,7 @@ public class MainActivity extends AppCompatActivity {
   @Override
   public void onBackPressed() {
     new AlertDialog.Builder(this)
-        .setTitle("Exit?")
+        .setTitle("Leaving the game?")
         .setMessage("Are you sure you want to exit?")
         .setNegativeButton(android.R.string.no, null)
         .setPositiveButton(android.R.string.yes, new OnClickListener() {
