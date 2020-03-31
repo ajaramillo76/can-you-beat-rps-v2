@@ -55,13 +55,16 @@ public class MainActivity extends AppCompatActivity {
               startActivity(intent);
             });
         break;
-      default:
-        handled = super.onOptionsItemSelected(item);
-    }
+      case R.id.settings:
+        Intent intent = new Intent(this, SettingsActivity.class);
+        startActivity(intent);
+        default:
+          handled = super.onOptionsItemSelected(item);
+      }
     return handled;
   }
 
-  @Override
+     @Override
   public void onBackPressed() {
     new AlertDialog.Builder(this)
         .setTitle("Leaving the game?")

@@ -6,6 +6,7 @@
     android:id="@+id/info"
     android:title="@string/how_to"
     android:icon="@drawable/ic_info_alert"
+    android:visible="true"
     app:showAsAction="always"/>
 
 </menu>
