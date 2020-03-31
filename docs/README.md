@@ -28,8 +28,8 @@ I chose to build a rock paper scissors game because of my son.  He has ADHD and 
 
 * ### [Entity-Relationship Diagram](erd.md)
 
-## [Data Model Implementaton Page](data_model_implementation.md)
+* ### [Data Model Implementaton Page](data_model_implementation.md)
 
-## [Build Instructions](build_instructions.md)
+*  ### [Build Instructions](build_instructions.md)
 
 
