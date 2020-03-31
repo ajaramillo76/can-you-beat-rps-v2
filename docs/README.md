@@ -30,3 +30,6 @@ I chose to build a rock paper scissors game because of my son.  He has ADHD and 
 
 ## [Data Model Implementaton Page](data_model_implementation.md)
 
+## [Build Instructions](build_instructions.md)
+
+
