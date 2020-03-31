@@ -4,4 +4,6 @@
 
 2) Open up IntelliJ IDEA.  On the opening screen, select 'Get from version control'.  Paste the copied SSH key in the URL and press OK.  When it asks you to open the project, select no both times.
 
-3) Now select 'Import from existing sources' and find the project folder named "can-you-beat-rps-v2".  Select and hit OK and open the project as a Maven project. 
+3) Now select 'Import from existing sources' and find the project folder named "can-you-beat-rps-v2".  Select and hit OK and open the project as a Maven project.
+
+4) Open an emulator or connect a physical device, then in the top menu, select (Run|Run app).  The app should now open on your selected device.   
