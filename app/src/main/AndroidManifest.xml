@@ -16,8 +16,7 @@
     <activity android:name=".controller.SettingsActivity"
       android:parentActivityName=".controller.MainActivity">
     </activity>
-
-    <activity android:name=".controller.LoginActivity">
+       <activity android:name=".controller.LoginActivity">
     </activity>
     <activity android:name=".controller.MainActivity">
       <intent-filter>
